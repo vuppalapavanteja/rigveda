@@ -13,19 +13,11 @@
     :root {
       --primary-dark: #4a2c2a;
       --saffron: #f4a261;
-      --parchment: #fdf5e6;
       --border-gold: #d4af37;
     }
 
-    /* Font Assignments */
-    .telugu-text {
-      font-family: 'Noto Sans Telugu', sans-serif;
-    }
-
-    .devanagari-text {
-      /* Uses Siddhanta if installed, otherwise falls back to Noto Serif Devanagari */
-      font-family: 'Siddhanta', 'Noto Serif Devanagari', serif;
-    }
+    .telugu-text { font-family: 'Noto Sans Telugu', sans-serif; }
+    .devanagari-text { font-family: 'Siddhanta', 'Noto Serif Devanagari', serif; }
 
     body {
       margin: 0;
@@ -40,92 +32,90 @@
     }
 
     .main-wrapper {
-      background: rgba(255, 252, 240, 0.95);
+      background: rgba(255, 252, 240, 0.96);
       border: 8px double var(--border-gold);
-      border-radius: 5px;
-      max-width: 950px;
+      border-radius: 4px;
+      max-width: 1000px;
       width: 100%;
-      padding: 40px;
-      box-shadow: 0 0 50px rgba(0,0,0,0.2);
+      padding: 50px 30px;
+      box-shadow: 0 0 40px rgba(0,0,0,0.2);
       text-align: center;
     }
 
     .image-header {
       display: flex;
       justify-content: center;
-      gap: 30px;
-      margin-bottom: 30px;
+      gap: 40px;
+      margin-bottom: 25px;
     }
 
     .image-header img {
-      width: 160px;
-      height: 160px;
+      width: 150px;
+      height: 150px;
       object-fit: cover;
       border-radius: 50%;
-      border: 4px solid var(--border-gold);
-      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      border: 3px solid var(--border-gold);
+      padding: 5px;
+      background: white;
     }
 
     h1 {
-      font-size: 38px;
-      margin: 10px 0;
-      letter-spacing: 1px;
+      font-size: 42px;
+      margin: 0 0 30px 0;
+      font-weight: normal;
+      letter-spacing: 2px;
+      color: #5e3a37;
     }
 
-    /* Shloka Layout */
+    /* Clean Shloka Section - No Headers */
     .shloka-container {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 20px;
-      margin: 30px 0;
-      padding: 25px;
-      background: rgba(212, 175, 55, 0.08);
-      border-radius: 15px;
-      line-height: 1.8;
-    }
-
-    .shloka-box h3 {
-      font-size: 14px;
-      text-transform: uppercase;
-      color: #8b4513;
-      margin-top: 0;
-      border-bottom: 1px solid rgba(139, 69, 19, 0.2);
-      padding-bottom: 5px;
+      gap: 40px;
+      margin-bottom: 45px;
+      padding: 30px;
+      background: rgba(255, 255, 255, 0.4);
+      border-top: 1px solid rgba(212, 175, 55, 0.3);
+      border-bottom: 1px solid rgba(212, 175, 55, 0.3);
     }
 
     .shloka-content {
-      font-size: 1.1rem;
+      font-size: 1.25rem;
+      line-height: 2.2;
+      color: #2c1a19;
     }
 
     /* Language Buttons */
     .lang-grid {
       display: flex;
       justify-content: center;
-      gap: 20px;
-      margin-top: 20px;
+      gap: 25px;
     }
 
     .lang-btn {
       text-decoration: none;
       color: var(--primary-dark);
       background: #fff8e7;
-      padding: 12px 30px;
-      border: 2px solid var(--border-gold);
-      border-radius: 8px;
-      font-size: 1.4rem;
+      padding: 15px 40px;
+      border: 1px solid var(--border-gold);
+      border-radius: 12px;
+      font-size: 1.5rem;
       font-weight: bold;
-      transition: 0.3s;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     }
 
     .lang-btn:hover {
       background: var(--saffron);
       color: white;
-      transform: scale(1.05);
+      transform: translateY(-2px);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
     }
 
-    @media (max-width: 768px) {
-      .shloka-container { grid-template-columns: 1fr; }
-      .image-header img { width: 120px; height: 120px; }
+    @media (max-width: 850px) {
+      .shloka-container { grid-template-columns: 1fr; gap: 20px; }
+      .image-header { gap: 15px; }
+      .image-header img { width: 110px; height: 110px; }
     }
   </style>
 </head>
@@ -140,33 +130,24 @@
     <h1>Rigveda Samhita</h1>
 
     <div class="shloka-container">
-      <div class="shloka-box telugu-text">
-        <h3>Telugu</h3>
-        <div class="shloka-content">
-          సాక్షాన్మూలప్రమాణాయ విష్ణోరమితతేజసే ।<br>
-          ఆద్యాయ సర్వవేదానాం ఋగ్వేదాయ నమో నమః ॥<br>
-          ఋగ్వేదః శ్వేతవర్ణశ్చ ద్విభుజో రాసభాననః ।<br>
-          అక్షమాలాంబుపాత్రం చ బిభ్రత్ స్వాధ్యయనే రతః ॥
-        </div>
+      <div class="shloka-content telugu-text">
+        సాక్షాన్మూలప్రమాణాయ విష్ణోరమితతేజసే ।<br>
+        ఆద్యాయ సర్వవేదానాం ఋగ్వేదాయ నమో నమః ॥<br>
+        ఋగ్వేదః శ్వేతవర్ణశ్చ ద్విభుజో రాసభాననః ।<br>
+        అక్షమాలాంబుపాత్రం చ బిభ్రత్ స్వాధ్యయనే రతః ॥
       </div>
 
-      <div class="shloka-box devanagari-text">
-        <h3>Devanagari</h3>
-        <div class="shloka-content">
-          साक्षान्मूलप्रमाणाय विष्णोरमिततेजसे ।<br>
-          आद्याय सर्ववेदानां ऋग्वेदाय नमो नमः ॥<br>
-          ऋग्वेदः श्वेतवर्णश्च द्विभुजो रासभाननः ।<br>
-          अक्षमालाम्बुपात्रं च बिभ्रत् स्वाध्ययने रतः ॥
-        </div>
+      <div class="shloka-content devanagari-text">
+        साक्षान्मूलप्रमाणाय विष्णोरमिततेजसे ।<br>
+        आद्याय सर्ववेदानां ऋग्वेदाय नमो नमः ॥<br>
+        ऋग्वेदः श्वेतवर्णश्च द्विभुजो रासभाननः ।<br>
+        अक्षमालाम्बुपात्रं च बिभ्रत् स्वाध्ययने रतः ॥
       </div>
     </div>
 
-    <div class="language-selection">
-      <p style="font-weight: bold; opacity: 0.7;">Select Language / భాషను ఎంచుకోండి</p>
-      <div class="lang-grid">
-        <a href="rigveda_samhitha_telugu.html" class="lang-btn telugu-text">తెలుగు</a>
-        <a href="rigveda_samhitha_devanagiri.html" class="lang-btn devanagari-text">देवनागरी</a>
-      </div>
+    <div class="lang-grid">
+      <a href="rigveda_samhitha_telugu.html" class="lang-btn telugu-text">తెలుగు</a>
+      <a href="rigveda_samhitha_devanagiri.html" class="lang-btn devanagari-text">देवनागरी</a>
     </div>
   </div>
 
