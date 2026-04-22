@@ -22,6 +22,7 @@ This digital text serves only as a reference or recap for those already learning
 ✨ Features / విశేషాలు / विशेषताएं
 
 English
+
 Comprehensive Metadata: Includes Padam, Rishi, Devata, and Chandas for the mantras.
 
 Dual Formatting: Supports navigation and filtering based on both Mandala Krama and Ashtaka Krama.
@@ -31,6 +32,7 @@ Printer Friendly & Copy-Paste Support: Optimized for clean printing and easy tra
 Non-Commercial: This is a strictly free, educational resource with no commercial intent.
 
 తెలుగు
+
 పూర్తి వివరాలు: ఇందులో మంత్రాలకు సంబంధించిన పదపాఠం, ఋషి, దేవత, మరియు ఛందస్సు వివరాలు పొందుపరచబడ్డాయి.
 
 రెండు రకాల క్రమాలు: అవసరాన్ని బట్టి మండల క్రమం లేదా అష్టక క్రమం ద్వారా వెతకవచ్చు.
@@ -39,7 +41,8 @@ Non-Commercial: This is a strictly free, educational resource with no commercial
 
 ఉచితం: ఇది ఎటువంటి వాణిజ్య ఉద్దేశం లేని సంపూర్ణ ఉచిత విద్యా వనరు.
 
-हिंदी
+हिंद
+ी
 विस्तृत विवरण: इसमें मंत्रों के लिए पदपाठ, ऋषि, देवता और छंद का पूर्ण विवरण शामिल है।
 
 दोहरा प्रारूप: यह मंडल क्रम और अष्टक क्रम दोनों के आधार पर नेविगेशन का समर्थन करता है।
@@ -59,6 +62,7 @@ Recommended Fonts: Noto Sans Telugu (for Telugu) and Siddhanta or Noto Sans Deva
 🤝 Contributions & Corrections / సూచనలు మరియు సహకారం
 
 English
+
 Scholarly Review: Users are highly encouraged to show this to Vedic Scholars. 
 If you find any errors or have suggestions, please reach out.
 
@@ -67,6 +71,7 @@ Prayoga Section (Seeking Texts): I intend to add a Prayoga section (e.g., Nitya 
 Parishishta / Khila: Support for Khila parts will be added soon. Contributions of these texts are welcome.
 
 తెలుగు
+
 పండిత పర్యవేక్షణ: దయచేసి దీన్ని వేద పండితులకు చూపించి, ఏవైనా తప్పులు లేదా సూచనలు ఉంటే తెలియజేయగలరు.
 
 ప్రయోగ భాగం: నిత్య పూజ, పుణ్యాహవాచనం, ఆశ్వలాయన ప్రయోగం వంటి భాగాలను చేర్చాలని నిశ్చయించాను. 
@@ -90,9 +95,7 @@ Email: vuppalapavanteja@gmail.com
 🙏 Acknowledgments / కృతజ్ఞతలు
 
 Compiled from various sources including:
-
 daithal (GitHub)
-
 Detlef (Rigveda.htm)
 
 The eternal Guru-Shishya Parampara.
