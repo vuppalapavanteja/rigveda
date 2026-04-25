@@ -21,37 +21,37 @@
 ---
 
 ### Links Configuration (Internal)
-[1a]: https://github.com/vuppalapavanteja/rigveda/blob/main/Samhitha-Without_Deergha-Svaritham/rigveda_samhitha_telugu.html
-[1b]: https://github.com/vuppalapavanteja/rigveda/blob/main/Samhitha-Without_Deergha-Svaritham/rigveda_samhitha_devanagari.html
-[1c]: https://github.com/vuppalapavanteja/rigveda/blob/main/Samhitha-Without_Deergha-Svaritham/rigveda_samhitha_kannada.html
+[1a]: https://vuppalapavanteja.github.io/rigveda/Samhitha-Without_Deergha-Svaritham/rigveda_samhitha_telugu.html
+[1b]: https://vuppalapavanteja.github.io/rigveda/Samhitha-Without_Deergha-Svaritham/rigveda_samhitha_devanagari.html
+[1c]: https://vuppalapavanteja.github.io/rigveda/Samhitha-Without_Deergha-Svaritham/rigveda_samhitha_kannada.html
 
-[2a]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_devanagiri.html
-[2b]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_telugu.html
-[2c]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_kannada.html
-[2d]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_tamil.html
-[2e]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_oriya.html
-[2f]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_malayalam.html
+[2a]: https://vuppalapavanteja.github.io/rigveda/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_devanagiri.html
+[2b]: https://vuppalapavanteja.github.io/rigveda/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_telugu.html
+[2c]: https://vuppalapavanteja.github.io/rigveda/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_kannada.html
+[2d]: https://vuppalapavanteja.github.io/rigveda/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_tamil.html
+[2e]: https://vuppalapavanteja.github.io/rigveda/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_oriya.html
+[2f]: https://vuppalapavanteja.github.io/rigveda/content/02_samhitha_kanchi/rigveda_samhitha_kanchi_malayalam.html
 
-[3a]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_devanagiri.html
-[3b]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_telugu.html
-[3c]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_kannada.html
-[3d]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_tamil.html
-[3e]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_oriya.html
-[3f]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_malayalam.html
+[3a]: https://vuppalapavanteja.github.io/rigveda/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_devanagiri.html
+[3b]: https://vuppalapavanteja.github.io/rigveda/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_telugu.html
+[3c]: https://vuppalapavanteja.github.io/rigveda/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_kannada.html
+[3d]: https://vuppalapavanteja.github.io/rigveda/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_tamil.html
+[3e]: https://vuppalapavanteja.github.io/rigveda/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_oriya.html
+[3f]: https://vuppalapavanteja.github.io/rigveda/content/03_samhitha_sringeri/rigveda_samhitha_sringeri_malayalam.html
 
-[4a]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/04_khila/khila_devanagiri.html
-[4b]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/04_khila/khila_telugu.html
-[4c]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/04_khila/khila_kannada.html
-[4d]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/04_khila/khila_tamil.html
-[4e]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/04_khila/khila_oriya.html
-[4f]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/04_khila/khila_malayalam.html
+[4a]: https://vuppalapavanteja.github.io/rigveda/content/04_khila/khila_devanagiri.html
+[4b]: https://vuppalapavanteja.github.io/rigveda/content/04_khila/khila_telugu.html
+[4c]: https://vuppalapavanteja.github.io/rigveda/content/04_khila/khila_kannada.html
+[4d]: https://vuppalapavanteja.github.io/rigveda/content/04_khila/khila_tamil.html
+[4e]: https://vuppalapavanteja.github.io/rigveda/content/04_khila/khila_oriya.html
+[4f]: https://vuppalapavanteja.github.io/rigveda/content/04_khila/khila_malayalam.html
 
-[5a]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/05_suktani/Suktani_devanagiri.html
-[5b]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/05_suktani/Suktani_telugu.html
-[5c]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/05_suktani/Suktani_kannada.html
-[5d]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/05_suktani/Suktani_tamil.html
-[5e]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/05_suktani/Suktani_oriya.html
-[5f]: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/content/05_suktani/Suktani_malayalam.html
+[5a]: https://vuppalapavanteja.github.io/rigveda/content/05_suktani/Suktani_devanagiri.html
+[5b]: https://vuppalapavanteja.github.io/rigveda/content/05_suktani/Suktani_telugu.html
+[5c]: https://vuppalapavanteja.github.io/rigveda/content/05_suktani/Suktani_kannada.html
+[5d]: https://vuppalapavanteja.github.io/rigveda/content/05_suktani/Suktani_tamil.html
+[5e]: https://vuppalapavanteja.github.io/rigveda/content/05_suktani/Suktani_oriya.html
+[5f]: https://vuppalapavanteja.github.io/rigveda/content/05_suktani/Suktani_malayalam.html
 
 📬 Contact / సంప్రదించండి / संपर्क
 Email: vuppalapavanteja@gmail.com
